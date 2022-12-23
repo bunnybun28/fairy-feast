@@ -14,6 +14,7 @@ As a user I want the ability to ...
 * Win game
 * Collect 10pts damage items 
 * Lose game
+* Try again
 
 
 
