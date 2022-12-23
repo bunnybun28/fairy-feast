@@ -15,3 +15,4 @@ As a user I want the ability to ...
 -lose game
 
 # Wire Frames
+![wire-frame1](fairy-wf1.jpg)
