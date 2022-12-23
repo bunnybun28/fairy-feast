@@ -14,5 +14,10 @@ As a user I want the ability to ...
 -collect 10pts damage items 
 -lose game
 
+# 
 # Wire Frames
 ![wire-frame1](fairy-wf1.jpg)
+![wire-frame2](fairy- wf2.jpg)
+![wire-frame3](fairy-wf3.jpg)
+![wire-frame4](fairy-wf4.jpg)
+![wire-frame5](fairy-wf5.jpg)
