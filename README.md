@@ -5,15 +5,15 @@ Fairy Feast is a user based interactive game where the user/ fairy, collects fai
 
 
 # User Stories:
-<ul>As a user I want the ability to ...
--start game
--gather fairy food
--dodge damaging items 
--collect 10 pts fairy food
--win game
--collect 10pts damage items 
--lose game
-</ul>
+As a user I want the ability to ...
+* start game
+* gather fairy food
+* dodge damaging items 
+* collect 10 pts fairy food
+* win game
+* collect 10pts damage items 
+* lose game
+
 
 
 # Technology used:
